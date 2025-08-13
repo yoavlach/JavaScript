@@ -38,16 +38,19 @@ Players take turns rolling a die and accumulating points. The first player to re
 
 ## 📂 Project Structure
 
-├── index.html # Main HTML structure
-├── style.css # Game styling
-├── script.js # Game logic
+
+```plaintext
+.
+├── index.html     # Main HTML structure
+├── style.css      # Game styling
+├── script.js      # Game logic
 ├── img/
-│ ├── dice-1.png
-│ ├── dice-2.png
-│ ├── dice-3.png
-│ ├── dice-4.png
-│ ├── dice-5.png
-│ └── dice-6.png
+│   ├── dice-1.png
+│   ├── dice-2.png
+│   ├── dice-3.png
+│   ├── dice-4.png
+│   ├── dice-5.png
+│   └── dice-6.png
 └── README.md
 
 ---
