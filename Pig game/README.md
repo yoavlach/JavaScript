@@ -56,8 +56,8 @@ Players take turns rolling a die and accumulating points. The first player to re
 ## 🚀 Installation & Running Locally
 
 1. **Clone the repository**
-  git clone https://github.com/your-username/pig-dice-game.git
-  cd pig-dice-game
+Download all of the files in this folder
+
 
 
 2. **Open in Browser**  
